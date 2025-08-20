@@ -1,0 +1,42 @@
+🗂️ File and Directory Management
+- ls – Lists files and directories in the current location
+- cd – Changes the current directory
+- pwd – Prints the current working directory
+- mkdir – Creates a new directory
+- rmdir – Removes an empty directory
+- rm – Removes files or directories (rm -r for recursive delete)
+- touch – Creates a new empty file
+- cp – Copies files or directories
+- mv – Moves or renames files or directories
+
+📄 Viewing and Editing Files
+- cat – Displays the contents of a file
+- less / more – Views file content one screen at a time
+- nano / vim – Opens a file in a text editor
+- head / tail – Shows the beginning or end of a file
+
+🔍 Searching and Finding
+- find – Searches for files and directories
+- grep – Searches inside files for matching text
+- which – Shows the path of a command
+- locate – Quickly finds files by name (uses a database)
+
+🛠️ System Info and Management
+- top / htop – Displays running processes and system usage
+- ps – Lists currently running processes
+- kill – Terminates a process by PID
+- df – Shows disk space usage
+- du – Shows file and directory sizes
+- free – Displays memory usage
+- uname – Shows system information
+- whoami – Displays your current username
+
+🔐 Permissions and Ownership
+- chmod – Changes file permissions
+- chown – Changes file ownership
+- sudo – Executes a command with superuser privileges
+
+📦 Package Management (varies by distro)
+- apt – Debian/Ubuntu-based systems (e.g., sudo apt install package-name)
+- yum / dnf – Red Hat/Fedora-based systems
+- pacman – Arch Linux
